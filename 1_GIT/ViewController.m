@@ -14,8 +14,10 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
+    NSLog(@"https://github.com/vivekvv/GIT_one.git");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
